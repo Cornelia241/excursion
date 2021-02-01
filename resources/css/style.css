@@ -1,0 +1,23 @@
+ body{
+    font-family:"Veranda;
+    font-size: 50px;
+    color:white;
+    background-color: black;
+    text-align: center;
+    margin:0;
+    font-weight:normal;
+  }
+  a {
+    color: Aquamarine;
+    font-size:16px;
+    text-decoration:underline;
+  }
+  
+  
+ h3 {font-size:21px;
+ color:Gray;
+ }
+ 
+ footer{
+ text-align:right;
+ color:gray;}
